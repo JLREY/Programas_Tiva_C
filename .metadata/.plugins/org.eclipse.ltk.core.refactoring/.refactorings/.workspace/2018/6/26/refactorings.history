@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Templait&apos; to &apos;PWM&apos;" description="Rename resource &apos;Templait&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Templait" name="PWM" stamp="1530335778482" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Templait&apos; to &apos;DFT_pf&apos;" description="Rename resource &apos;Templait&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Templait" name="DFT_pf" stamp="1530360451059" updateReferences="true"/>
+</session>

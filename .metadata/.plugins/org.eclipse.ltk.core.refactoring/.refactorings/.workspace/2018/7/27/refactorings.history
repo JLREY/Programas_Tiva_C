@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DFT_Final&apos; to &apos;DFT&apos;" description="Rename resource &apos;DFT_Final&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/DFT_Final" name="DFT" stamp="1530635101984" updateReferences="true"/>
+</session>
